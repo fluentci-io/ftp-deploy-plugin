@@ -1,0 +1,12 @@
+[package]
+authors = [
+  "Tsiry Sandratraina <tsiry.sndr@fluentci.io>",
+]
+description = "CI/CD Plugin for @samkirkland/ftp-deploy"
+keywords = [
+  "ftp",
+  "deploy",
+]
+license = "MIT"
+name = "ftp-deploy"
+version = "0.1.0"
