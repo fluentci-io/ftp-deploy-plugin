@@ -10,7 +10,7 @@ This plugin sets up your CI/CD pipeline with a specific version of [@samkirkland
 Add the following command to your CI configuration file:
 
 ```bash
-fluentci run --wasm ftp-deploy setup
+fluentci run --wasm ftp-deploy deploy --server ftp.samkirkland.com --username test@samkirkland.com --password \"CrazyUniquePassword&%123\"
 ```
 
 ## Functions
