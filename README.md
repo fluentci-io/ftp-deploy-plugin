@@ -1,5 +1,6 @@
-# Ftp Deploy Plugin
+# FTP Deploy Plugin
 
+[![fluentci pipeline](https://shield.fluentci.io/x/ftp-deploy)](https://pkg.fluentci.io/ftp-deploy)
 [![ci](https://github.com/fluentci-io/ftp-deploy-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/fluentci-io/ftp-deploy-plugin/actions/workflows/ci.yml)
 
 This plugin sets up your CI/CD pipeline with a specific version of [@samkirkland/ftp-deploy](https://github.com/SamKirkland/ftp-deploy).
